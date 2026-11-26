@@ -1,8 +1,8 @@
 # The Painfully Honest Out-of-Office
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounties/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
-[![Competition](https://img.shields.io/badge/competition-63e7ca0b-purple)](https://make.fun/api/competitions/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun · u-po-pu-the-painfully-honest-out-of-office-63e7ca0b](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
+[![rank](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/AyzRuoshui/mf-u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/rank.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
+[![reward](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/AyzRuoshui/mf-u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/reward.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
 
 A deterministic Node 22 TypeScript entry for the make.fun bounty. It writes one
 polite but painfully honest out-of-office auto-reply to `${MAKEFUN_OUTPUT_DIR}/entry.txt`,
